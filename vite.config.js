@@ -20,5 +20,10 @@ export default defineConfig({
       '@views': path.resolve('./src/views'),
       '@styles': path.resolve('./src/styles')
     }
+  },
+  test: {
+    globals: true,
+    environment: 'jsdom',
+    setupFiles: './src/setupTests.js'
   }
 })
