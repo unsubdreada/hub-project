@@ -4,14 +4,22 @@ export function RightBar(props) {
   const { prop = '' } = props
 
   return (
-    <div className={styles.dark}>
+    <div className={styles.dark + ' ' + styles.wrapper}>
       <p>
-        Lorem, ipsum dolor sit amet consectetur adipisicing elit. Obcaecati
-        laborum omnis impedit accusamus illo aut laboriosam libero quas nulla
-        aliquid cum, vitae voluptate autem dicta harum non illum, ad voluptas
-        numquam quibusdam, excepturi tenetur sequi labore! Numquam quibusdam
-        architecto magni distinctio natus. Dolor officiis cumque velit.
-        Inventore eaque tenetur perspiciatis.
+        Значимость этих проблем настолько очевидна, что сложившаяся структура
+        организации позволяет выполнять важные задания по разработке модели
+        развития. Не следует, однако забывать, что рамки и место обучения кадров
+        требуют от нас анализа направлений прогрессивного развития. Задача
+        организации, в особенности же постоянное информационно-пропагандистское
+        обеспечение нашей деятельности требуют определения и уточнения
+        направлений прогрессивного развития. Повседневная практика показывает,
+        что консультация с широким активом в значительной степени обуславливает
+        создание дальнейших направлений развития. Равным образом реализация
+        намеченных плановых заданий обеспечивает широкому кругу (специалистов)
+        участие в формировании существенных финансовых и административных
+        условий. Товарищи! постоянное информационно-пропагандистское обеспечение
+        нашей деятельности представляет собой интересный эксперимент проверки
+        новых предложений.
       </p>
     </div>
   )

@@ -1,0 +1,129 @@
+.wrapper {
+  border-radius: 10px;
+  padding: $apx-15;
+
+  hr {
+    margin: $apx-10 0;
+    border: 1px solid #ffffff0a;
+  }
+}
+
+.dark {
+  display: flex;
+  flex-direction: column;
+  background: $card__dark;
+
+  & .creator {
+    display: flex;
+    align-items: center;
+    gap: $apx-15;
+
+    & .avatar__wrapper {
+      display: flex;
+      position: relative;
+
+      & .avatar {
+        width: $apx-40;
+        height: $apx-40;
+        border-radius: 50%;
+      }
+
+      & .theme {
+        position: absolute;
+        bottom: -$apx-5;
+        right: -$apx-5;
+        width: $apx-20;
+        height: $apx-20;
+        border-radius: 50%;
+      }
+    }
+
+    & .info__wrapper {
+      display: flex;
+      flex-direction: column;
+      justify-content: space-evenly;
+      height: 100%;
+
+      h4 {
+        font-size: $apx-12;
+        color: $card__nickname__dark;
+      }
+
+      p {
+        font-size: $apx-10;
+        color: $card__time__dark;
+      }
+    }
+  }
+
+  & .news {
+    padding: 0 $apx-25;
+    overflow: hidden;
+    max-height: $apx-500;
+    transition: max-height 3s ease-in-out;
+
+    &[data-opened='true'] {
+      overflow: visible;
+      max-height: none;
+    }
+
+    & .title {
+      font-size: $apx-26;
+      color: $card__title__dark;
+    }
+
+    & .text {
+      font-size: $apx-16;
+      color: $card__text__dark;
+    }
+  }
+
+  & .read__more {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    background: $card__dark;
+    color: $card__time__dark;
+    cursor: pointer;
+  }
+
+  & .popular__comment {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    background: $card__dark;
+    gap: $apx-20;
+
+    & .commentator {
+      display: flex;
+      gap: $apx-10;
+
+      & .avatar {
+        width: $apx-30;
+        height: $apx-30;
+        border-radius: 50%;
+      }
+
+      & .info__wrapper {
+        display: flex;
+        flex-direction: column;
+        align-content: center;
+
+        & .nickname {
+          font-size: $apx-12;
+          color: $card__nickname__dark;
+        }
+
+        & .posted__time {
+          font-size: $apx-10;
+          color: $card__time__dark;
+        }
+      }
+    }
+    & .text {
+      font-size: $apx-14;
+      color: $card__text__dark;
+    }
+  }
+}

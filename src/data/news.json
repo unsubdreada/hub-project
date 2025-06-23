@@ -1,0 +1,87 @@
+[
+  {
+    "title": "Это первая новость в ленте!",
+    "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Amet excepturi ullam voluptatum fuga reiciendis deleniti architecto, maiores, nesciunt officia ipsum ipsam nam provident? Est nobis obcaecati eos sint ea aliquam at eligendi quas cumque labore quidem deserunt corrupti pariatur assumenda quis illum necessitatibus, molestiae dignissimos repellendus omnis laborum facilis. Praesentium ab est illum at ducimus tempore optio libero eos animi quia nulla adipisci accusantium veniam ea, voluptas suscipit aliquid. Placeat, fuga fugiat enim incidunt quos eligendi, rem saepe molestiae iure quod nemo eius deserunt exercitationem reiciendis mollitia dolores veniam ipsa delectus? Voluptates porro laborum ullam veritatis magni, consequatur velit ipsa laboriosam voluptate officia iusto quis. Quis dolore, dolorum ea dicta explicabo sit aut nulla incidunt quisquam possimus. Dolore et atque repudiandae autem magnam voluptate totam modi deleniti sunt iure labore, numquam harum quo repellat necessitatibus nostrum obcaecati corrupti aut dignissimos dolores ipsam molestias.",
+    "creatorInfo": {
+      "avatar": "https://i.pinimg.com/236x/c8/cc/24/c8cc24bba37a25c009647b8875aae0e3.jpg",
+      "theme": "https://cdn-icons-png.flaticon.com/512/5930/5930147.png",
+      "themeName": "Игры",
+      "nickname": "Alexandr",
+      "postedTime": "3 ч."
+    },
+    "commentatorInfo": {
+      "avatar": "https://icdn.lenta.ru/images/2024/05/24/11/20240524111541159/square_1280_4376812380237d70f351893b250f8811.jpg",
+      "nickname": "Alexey",
+      "postedTime": "1 ч.",
+      "text": "Отличный новостной сайт, люблю такие! Всё в одном месте!"
+    }
+  },
+  {
+    "title": "Это вторая новость в ленте!",
+    "text": "Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Lorem ipsum dolor sit, amet consectetur adipisicing elit. Cum iure ea est labore! Ipsa, repellat. Amet excepturi ullam voluptatum fuga reiciendis deleniti architecto, maiores, nesciunt officia ipsum ipsam nam provident? Est nobis obcaecati eos sint ea aliquam at eligendi quas cumque labore quidem deserunt corrupti pariatur assumenda quis illum necessitatibus, molestiae dignissimos repellendus omnis laborum facilis. Praesentium ab est illum at ducimus tempore optio libero eos animi quia nulla adipisci accusantium veniam ea, voluptas suscipit aliquid. Placeat, fuga fugiat enim incidunt quos eligendi, rem saepe molestiae iure quod nemo eius deserunt exercitationem reiciendis mollitia dolores veniam ipsa delectus? Voluptates porro laborum ullam veritatis magni, consequatur velit ipsa laboriosam voluptate officia iusto quis. Quis dolore, dolorum ea dicta explicabo sit aut nulla incidunt quisquam possimus. Dolore et atque repudiandae autem magnam voluptate totam modi deleniti sunt iure labore, numquam harum quo repellat necessitatibus nostrum obcaecati corrupti aut dignissimos dolores ipsam molestias.",
+    "creatorInfo": {
+      "avatar": "https://i.pinimg.com/236x/c8/cc/24/c8cc24bba37a25c009647b8875aae0e3.jpg",
+      "theme": "https://cdn-icons-png.flaticon.com/512/5930/5930147.png",
+      "themeName": "Фильмы",
+      "nickname": "Kristina",
+      "postedTime": "5 ч."
+    },
+    "commentatorInfo": {
+      "avatar": "https://icdn.lenta.ru/images/2024/05/24/11/20240524111541159/square_1280_4376812380237d70f351893b250f8811.jpg",
+      "nickname": "Volodya",
+      "postedTime": "2 ч.",
+      "text": "Отличный новостной сайт, люблю такие! Всё в одном месте!"
+    }
+  },
+  {
+    "title": "Это третья новость в ленте!",
+    "text": "Привет, мир!",
+    "creatorInfo": {
+      "avatar": "https://i.pinimg.com/236x/c8/cc/24/c8cc24bba37a25c009647b8875aae0e3.jpg",
+      "theme": "https://cdn-icons-png.flaticon.com/512/5930/5930147.png",
+      "themeName": "Музыка",
+      "nickname": "German",
+      "postedTime": "8 ч."
+    },
+    "commentatorInfo": {
+      "avatar": "https://icdn.lenta.ru/images/2024/05/24/11/20240524111541159/square_1280_4376812380237d70f351893b250f8811.jpg",
+      "nickname": "Lolik",
+      "postedTime": "6 ч.",
+      "text": "Отличный новостной сайт, люблю такие! Всё в одном месте!"
+    }
+  },
+  {
+    "title": "Это четвертая новость в ленте!",
+    "text": "Привет, мир!",
+    "creatorInfo": {
+      "avatar": "https://i.pinimg.com/236x/c8/cc/24/c8cc24bba37a25c009647b8875aae0e3.jpg",
+      "theme": "https://cdn-icons-png.flaticon.com/512/5930/5930147.png",
+      "themeName": "Автомобили",
+      "nickname": "Elizaber",
+      "postedTime": "13 ч."
+    },
+    "commentatorInfo": {
+      "avatar": "https://icdn.lenta.ru/images/2024/05/24/11/20240524111541159/square_1280_4376812380237d70f351893b250f8811.jpg",
+      "nickname": "Kirill",
+      "postedTime": "10 ч.",
+      "text": "Отличный новостной сайт, люблю такие! Всё в одном месте!"
+    }
+  },
+  {
+    "title": "Это пятая новость в ленте!",
+    "text": "Привет, мир!",
+    "creatorInfo": {
+      "avatar": "https://i.pinimg.com/236x/c8/cc/24/c8cc24bba37a25c009647b8875aae0e3.jpg",
+      "theme": "https://cdn-icons-png.flaticon.com/512/5930/5930147.png",
+      "themeName": "Автомобили",
+      "nickname": "Elizaber",
+      "postedTime": "13 ч."
+    },
+    "commentatorInfo": {
+      "avatar": "https://icdn.lenta.ru/images/2024/05/24/11/20240524111541159/square_1280_4376812380237d70f351893b250f8811.jpg",
+      "nickname": "Kirill",
+      "postedTime": "10 ч.",
+      "text": "Отличный новостной сайт, люблю такие! Всё в одном месте!"
+    }
+  }
+]

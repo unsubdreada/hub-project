@@ -1,4 +1,10 @@
+.wrapper {
+  padding: $apx-15;
+  overflow: auto;
+  scrollbar-width: none;
+}
+
 .dark {
-  background: lawngreen;
-  color: #000;
+  // background: lawngreen;
+  color: #fff;
 }

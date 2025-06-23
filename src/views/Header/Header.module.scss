@@ -1,9 +1,11 @@
 .header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  padding: 0 $apx-300;
   background-color: $header__dark;
   color: #fff;
-  text-align: center;
+  text-align: left;
   align-content: center;
   min-height: $apx-60;
-  position: static;
-  z-index: 100;
 }

@@ -1,6 +1,7 @@
 .wrapper {
-  margin: 15px $apx-300;
+  margin: $apx-15 $apx-300;
   display: grid;
-  grid-template-columns: 1fr 2fr 1fr;
-  gap: 1rem;
+  grid-template-columns: 1fr 3fr 1fr;
+  height: calc(100vh - $apx-95);
+  overflow: hidden;
 }

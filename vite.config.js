@@ -1,7 +1,7 @@
-import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react';
-import eslint from 'vite-plugin-eslint';
-import path from 'path';
+import { defineConfig } from 'vite'
+import react from '@vitejs/plugin-react'
+import eslint from 'vite-plugin-eslint'
+import path from 'path'
 
 // https://vite.dev/config/
 export default defineConfig({
@@ -20,6 +20,7 @@ export default defineConfig({
       '@views': path.resolve('./src/views'),
       '@styles': path.resolve('./src/styles'),
       '@pages': path.resolve('./src/pages'),
+      '@data': path.resolve('./src/data'),
     },
   },
   test: {
@@ -27,4 +28,4 @@ export default defineConfig({
     environment: 'jsdom',
     setupFiles: './src/setupTests.js',
   },
-});
+})
