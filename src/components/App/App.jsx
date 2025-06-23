@@ -1,17 +1,17 @@
-import {Button} from '../Button'
-import { Input } from '../Input'
-import { Header } from '@views/Header'
+import { Button } from '../Button';
+import { Input } from '../Input';
+import { Header } from '@views/Header';
 
 function App() {
   return (
     <>
-      <Header text="Авторизация"/>
-      <Input placeholder="Логин"/>
-      <Input placeholder="Почта"/>
+      <Header text="Авторизация" />
+      <Input placeholder="Логин" />
+      <Input placeholder="Почта" />
       <Input />
-      <Button text="Войти"/>
+      <Button text="Войти" />
     </>
-  )
+  );
 }
 
-export default App
+export default App;
