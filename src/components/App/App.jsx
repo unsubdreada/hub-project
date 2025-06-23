@@ -1,17 +1,13 @@
-import { Button } from '../Button';
-import { Input } from '../Input';
-import { Header } from '@views/Header';
+import { Feed } from '@pages/Feed'
+import { Header } from '@views/Header'
 
 function App() {
   return (
     <>
-      <Header text="Авторизация" />
-      <Input placeholder="Логин" />
-      <Input placeholder="Почта" />
-      <Input />
-      <Button text="Войти" />
+      <Header />
+      <Feed />
     </>
-  );
+  )
 }
 
-export default App;
+export default App

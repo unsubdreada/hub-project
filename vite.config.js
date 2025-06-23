@@ -19,6 +19,7 @@ export default defineConfig({
       '@components': path.resolve('./src/components'),
       '@views': path.resolve('./src/views'),
       '@styles': path.resolve('./src/styles'),
+      '@pages': path.resolve('./src/pages'),
     },
   },
   test: {

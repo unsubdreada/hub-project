@@ -1,7 +1,7 @@
-import styles from './Button.module.scss';
+import styles from './Button.module.scss'
 
 export function Button(props) {
-  const { text = '' } = props;
+  const { text = '' } = props
 
-  return <button className={styles.default}>{text}</button>;
+  return <button className={styles.dark}>{text}</button>
 }
